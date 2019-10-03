@@ -1,2 +1,2 @@
-# ECS189L
-Test for game dev class
+# 2d-adventure-game
+Made in 2018 summer
